@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-and-file-handling",
+      "title": "Python Functions and File Handling",
+      "description": "Practice reusable functions and file input/output with a small student data task.",
+      "path": "assignments/python-functions-and-file-handling",
+      "dueDate": "2026-09-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
